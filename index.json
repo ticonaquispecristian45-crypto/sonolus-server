@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "id": "bi-alright",
+      "name": {
+        "en": "B.I - Alright"
+      },
+      "author": {
+        "en": "Cristian"
+      },
+      "version": "1.0.0",
+      "description": {
+        "en": "Custom chart of B.I - Alright"
+      }
+    }
+  ],
+  "total": 1
+}
