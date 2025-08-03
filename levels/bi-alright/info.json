@@ -1,0 +1,27 @@
+{
+  "id": "bi-alright",
+  "title": {
+    "en": "B.I - Alright"
+  },
+  "artist": {
+    "en": "B.I"
+  },
+  "author": {
+    "en": "Cristian"
+  },
+  "description": {
+    "en": "Custom Sonolus chart of 'Alright' by B.I"
+  },
+  "difficulty": 10,
+  "rating": 5,
+  "usePreview": true,
+  "preview": {
+    "startTime": 10,
+    "duration": 15
+  },
+  "data": {
+    "song": "bi-alright",
+    "bgm": "bi-alright",
+    "speed": 1
+  }
+}
